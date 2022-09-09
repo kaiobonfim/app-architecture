@@ -1,5 +1,7 @@
 # Application Architecture
 
+I've created this repository to concentrate some notes taken on topics I want to learn in the near future, in order to achieve a better understanding of applications architecture.
+
 ### Programming Languages
 
 [Programming Languages](https://www.notion.so/6e436ccff3f0417b9ed49b26c4cd0aba)
