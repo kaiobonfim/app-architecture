@@ -1,31 +1,58 @@
 # Application Architecture
 
-I've created this repository to concentrate some notes taken on topics I want to learn in the near future, in order to achieve a better understanding of applications architecture.
+This repository is used as to-do list of topics I want to learn, in order to achieve a better understanding of application architecture and DevSecOps pipelines.
 
-### Programming Languages
+- **Programming Languages**
+    - **Python** ✅
+        - Variables, operations, data structures, requests, scripting and automation
+    - **nodejs** ✅
+        - express, mongoose, handlebars, passport
+        - routes, models, authentication, access control, middlewares
+    - **Javascript ⛔**
 
-[Programming Languages](https://www.notion.so/6e436ccff3f0417b9ed49b26c4cd0aba)
+---
 
-### Tools
+- **DevOps Tools**
+    - **SAST/DAST ⛔**
+    - **Terraform ⛔**
+    - **Jenkins ⛔**
+    - **Ansible ⛔**
+    - **Git** ✅
+        - Basic code repository concepts
+    - **Docker** ⛔
+    - **Kubernetes** ⛔
+    - **API Gateway** ⛔
 
-[Tools](https://www.notion.so/9eea4aa3066b4e15836e8b454f349d24)
+---
 
-### Frameworks
+- **Authorization**
+    - **OAuth2 and OpenID ✅**
+        - Resource provider, Identity provider, authorization code, client credentials, access tokens
 
-[Frameworks](https://www.notion.so/ada2d346c28c4970a4fa0eea2606a700)
+---
 
-### Operating Systems
+- **Operating Systems**
+    - **Linux** ✅
+        - Service administration, users and group permissions, bash scripting
+    - **Windows** ⛔
 
-[Operating Systems](https://www.notion.so/42756117836d4ce9ba9165f57ee0aae4)
+---
 
-### Technologies
+- **Cloud Providers**
+    - **AWS** ✅
+        - Cloud Practitioner Certified ✅
+        - Solutions Architect Associate ⛔
+    - **Azure** ✅
+        - Serverless functions using REST APIs on nodejs
+    - **Google** ⛔
 
-[Technologies](https://www.notion.so/db669d7b32704cb7ba1c78b09afd9a88)
+---
 
-### Providers
-
-[Cloud Providers](https://www.notion.so/f2aa3667bad74e24889cda0eaacfea0b)
-
-### Other
-
-[Other topics](https://www.notion.so/d084f993dd5f4a4aa743509df7a9ef2d)
+- **Other topics**
+    - **Threat Modeling** ⛔
+    - **Risk Analysis** ⛔
+    - **Code Review** ⛔
+    - **SDLC** ⛔
+    - **CSA Matrix** ✅
+        - CCSK Foundation Training ✅
+    - **Blockchain** ⛔
