@@ -1,6 +1,6 @@
 # Application Architecture
 
-This repository is used as to-do list of topics I want to learn, in order to achieve a better understanding of application architecture and DevSecOps pipelines.
+This repository is used as a to-do list of topics I want to learn, in order to achieve a better understanding of application architecture and DevSecOps pipelines.
 
 - **Programming Languages**
     - **Python** ✅
